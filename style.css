@@ -1,0 +1,401 @@
+html, body {margin: 0; padding: 0;}
+.glyphicons{height: 20px;}
+
+header .encabezado{height: 180px; text-align: center;}
+header .encabezado .inner-header{padding-top: 50px;}
+header .encabezado .inner-header .nav-icons{margin-left: 20px;}
+header #insta-logo{height: 29px;}
+
+section .sect1{background-image: url(img/banner.jpg); background-repeat: no-repeat; background-position: center; background-size: cover; height: 670px;}
+
+section .sect2{height: 290px;}
+section .sect2 .banner-izq{height: 290px; background-image: url(img/bkg-blue.jpg); align-content: right;}
+section .sect2 .banner-izq .inner-izq{float: right; margin-top: 50px; margin-right: 50px; text-align: center;}
+
+section .sect2 .banner-1 .inner-banner1{margin-top: 50px; text-align: center;}
+section .sect2 .banner-2 .inner-banner2{margin-top: 50px; text-align: center;}
+
+section .sect2 .banner-der .inner-der{float: left; margin-top: 50px; margin-left: 50px; text-align: center;}
+
+
+
+section .sect2 .banner-1{height: 290px; background-color: #19b60d;}
+section .sect2 .banner-2{height: 290px; background-color: #00609c;}
+section .sect2 .banner-der{height: 290px; background-image: url(img/bkg-orange.jpg);}
+section .sect2 .font-banner1{font-size: 20px; font-family: 'gotham-light'; text-align: center; color: white;}
+section .sect2 .font-banner2{font-size: 30px; font-family: 'gotham-black'; text-align: center; color: white;}
+
+section .sect3{background-image: url(img/banner2.jpg); background-repeat: no-repeat; background-size: cover; background-position: center; height: 1180px; padding: 65px 0;}
+section .sect3 .mision{font-family: 'gotham-ultra'; font-size: 65px; color: #00609c;}
+section .sect3 .vision{font-family: 'gotham-ultra'; font-size: 65px; color: #ee7600;}
+section .sect3 .puntos{font-size: 27px; color: #8c8c8c; letter-spacing: 2px;}
+section .sect3 .texto{font-size: 23px; color: #8c8c8c; text-align: justify;}
+
+section .sect3 .texto1{font-family: gotham-light;font-size: 37px;color: rgb(99, 99, 99);margin: 0px;}
+section .sect3 .texto2{font-family: 'gotham-ultra'; font-size: 46px; color: #ee7600; margin: 0;}
+section .sect3 .texto3{font-family: 'gotham-ultra'; font-size: 55px; color: #ee7600; margin: 0;}
+section .sect3 .texto4{font-family: 'gotham-ultra'; font-size: 77px; color: #fff; background-color: #008ec1; margin: 0; width: 600px; text-align: center;  padding-left: 12px; padding-right: 12px;}
+section .sect3 .texto5{font-family: 'gotham-ultra'; font-size: 87px; color: #0fa503; margin: 0;}
+section .sect3 .texto6{font-family: 'gotham-ultra'; font-size: 46px; color: #00609c;}
+
+section .sect3 .textos{margin-top: 60px; text-align: left; margin-left: 100px;}
+
+
+section .sect4 .texto-sect4{margin-left: 265px;}
+section .sect4{background-image: url(img/banner3.jpg); background-repeat: no-repeat; background-size: cover; background-position: center; height: 428px; position: relative;}
+section .sect4 .bkg-sect4{background-image: url(img/nina-bkg.jpg); background-repeat: no-repeat; height: 428px;}
+section .sect4 .pal1{padding-left: 12px; font-size: 87px;margin-bottom: 40px; margin-top: 10px; margin-bottom: 50px; font-family: 'gotham-ultra';}
+section .sect4 .inscripcion{color: white; line-height: 25px; margin-left: 270px; margin-top: 65px;}
+section .sect4 .pal2{padding-left: 12px; padding-bottom: 15px; padding-left: 80px; font-size: 95px; font-weight: 100; margin-top: 10px;}
+section .sect4 .punto{height: 10px; border-radius: 50%; width: 10px; margin-left: -20px; margin-bottom: -15px;}
+section .sect4 .punto.azul{background-color: #00609c;}
+section .sect4 .punto.naranja{background-color: #ee7600;}
+
+section .sect4 .pal3{margin-left: 50%;}
+
+section .sect4 .cita{margin-right: 160px;}
+section .sect4 .pal3 .bkg-azul{padding: 5px 20px; color: white; display: inline-block; font-size: 24px; background-color: #00609c; text-align: center;}
+section .sect4 .pal3 .bkg-naranja{padding: 5px 20px; color: white; background: #ee7600; font-size: 24px; text-align: center;}
+
+ul{margin-top: 35px; padding: 0;}
+li{padding: 0 12px; color: white; display: inline-block; font-size: 38px;}
+footer .nav-icons2 #insta-logo{height: 29px;}
+footer .nav-icons2{float: right;}
+
+section .sect5{background-color: #00609c; padding: 60px 0; height: 600px;}
+section .sect5 .contactanos{font-size: 62px; color: #fff; margin-bottom: 20px; margin-top: 0; margin-left: 12px; font-family: 'gotham-ultra';}
+section .sect5 .dudas{font-size: 24px; color: #fff; margin-left: 16px; margin-bottom: 30px;}
+section .sect5 .area{height: 200px; resize: none; width: 470px;}
+section .sect5 .tel{font-size: 30px; color: #fff; margin-left: 16px; margin-bottom: 30px;}
+section .sect5 .correo{font-size: 30px; color: #fff; margin-left: 16px; margin-bottom: 30px;}
+section .sect5 .direccion{font-size: 30px; color: #fff; margin-left: 16px; margin-bottom: 30px;}
+i{display: inline-block;}
+
+footer{padding-top: 0px; padding-bottom: 25px;}
+footer .web{color: #868686; font-size: 20px; font-weight: 100; font-family: 'gotham-book';}
+footer .clave{color: #868686; font-size: 20px; font-weight: 100; font-family: 'gotham-book';}
+
+button{background-color: #ee7600;
+    border: #ee7600 solid 1px; color: white; float: right; font-size: 18px; padding: 5px 20px;}
+
+img{vertical-align: middle;}
+.container{max-width: 1000px;}
+
+@media (min-width: 1600px) {
+	/*body {border: 3px solid red;}*/
+}
+
+@media (min-width: 1200px) and (max-width: 1599px) {
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	section .sect2{height: 290px;}
+	section .sect2 .banner-izq{height: 290px; background-image: url(img/bkg-blue.jpg); align-content: right;}
+	section .sect2 .banner-izq .inner-izq{float: right; margin-top: 50px; margin-right: 50px; text-align: center;}
+
+	section .sect2 .banner-1 .inner-banner1{margin-top: 50px; text-align: center;}
+	section .sect2 .banner-2 .inner-banner2{margin-top: 50px; text-align: center;}
+
+	section .sect2 .banner-der .inner-der{float: left; margin-top: 50px; margin-left: 50px; text-align: center;}
+
+	section .sect2 .banner-1{height: 290px; background-color: #19b60d;}
+	section .sect2 .banner-2{height: 290px; background-color: #00609c;}
+	section .sect2 .banner-der{height: 290px; background-image: url(img/bkg-orange.jpg);}
+	section .sect2 .font-banner1{font-size: 17px; font-family: 'gotham-light'; text-align: center; color: white;}
+	section .sect2 .font-banner2{font-size: 26px; font-family: 'gotham-black'; text-align: center; color: white;}
+}
+
+@media only screen and (min-width: 993px) {
+}
+
+@media (max-width: 991px){
+	/*body {border: 3px solid blue;}*/
+
+	section .sect2{height: 290px; width: 100%;}
+	section .sect2 .banner-izq{height: 290px; background-image: url(img/bkg-blue.jpg); align-content: center;}
+	section .sect2 .banner-izq .inner-izq{ margin-top: 50px; margin-right: 40%; text-align: center;}
+
+	section .sect2 .banner-1 .inner-banner1{margin-top: 50px; text-align: center;}
+	section .sect2 .banner-2 .inner-banner2{margin-top: 50px; text-align: center;}
+
+	section .sect2 .banner-der .inner-der{float: none; margin-top: 50px; margin-left: 0px; text-align: center;}
+
+	section .sect2 .banner-1{height: 290px; background-color: #19b60d;}
+	section .sect2 .banner-2{height: 290px; background-color: #00609c;}
+	section .sect2 .banner-der{height: 290px; background-image: url(img/bkg-orange.jpg);}
+	section .sect2 .font-banner1{font-size: 17px; font-family: 'gotham-light'; text-align: center; color: white;}
+	section .sect2 .font-banner2{font-size: 26px; font-family: 'gotham-black'; text-align: center; color: white;}
+
+	section .sect3{margin-top: 820px; background-color: white; height: 1180px; padding: 65px 0;}
+	section .sect3 .mision{font-family: 'gotham-ultra'; font-size: 65px; color: #00609c;}
+	section .sect3 .vision{font-family: 'gotham-ultra'; font-size: 65px; color: #ee7600;}
+	section .sect3 .puntos{font-size: 24px; color: #8c8c8c; letter-spacing: 2px;}
+	section .sect3 .texto{font-size: 19px; color: #8c8c8c; text-align: justify;}
+
+	section .sect3 .texto1{font-family: gotham-light;font-size: 28px;color: rgb(99, 99, 99);margin: 0px;}
+	section .sect3 .texto2{font-family: 'gotham-ultra'; font-size: 36px; color: #ee7600; margin: 0;}
+	section .sect3 .texto3{font-family: 'gotham-ultra'; font-size: 45px; color: #ee7600; margin: 0;}
+	section .sect3 .texto4{font-family: 'gotham-ultra'; font-size: 67px; color: #fff; background-color: #008ec1; margin: 0; width: 600px; text-align: center;  padding-left: 12px; padding-right: 12px;}
+	section .sect3 .texto5{font-family: 'gotham-ultra'; font-size: 77px; color: #0fa503; margin: 0;}
+	section .sect3 .texto6{font-family: 'gotham-ultra'; font-size: 36px; color: #00609c;}
+
+	section .sect3 .textos{margin-top: 60px; text-align: left; margin-left: 0px;}
+
+	section .sect4 .texto-sect4{margin-left: 265px;}
+	section .sect4{background-image: url(img/banner3.jpg); background-repeat: no-repeat; background-size: cover; background-position: center; height: 428px; position: relative;}
+	section .sect4 .bkg-sect4{background-image: url(img/nina-bkg.jpg); background-repeat: no-repeat; height: 428px;}
+	section .sect4 .pal1{padding-left: 12px; font-size: 55px; margin-bottom: 40px; margin-top: 10px; margin-bottom: 50px; font-family: 'gotham-ultra';}
+	section .sect4 .inscripcion{color: white; line-height: 25px; margin-left: 270px; margin-top: 65px;}
+	section .sect4 .pal2{padding-left: 50px; padding-bottom: 15px; font-size: 79px; font-weight: 100; margin-top: 10px;}
+	section .sect4 .punto{height: 10px; border-radius: 50%; width: 10px; margin-left: -20px; margin-bottom: -15px;}
+	section .sect4 .punto.azul{background-color: #00609c;}
+	section .sect4 .punto.naranja{background-color: #ee7600;}
+
+	section .sect4 .pal3{margin-left: 70%;}
+	li{font-size: 21px;}
+	section .sect4 .cita{margin-right: 160px;}
+	section .sect4 .pal3 .bkg-azul{padding: 3px 14px; color: white; display: inline-block; font-size: 18px; background-color: #00609c; text-align: center;}
+	section .sect4 .pal3 .bkg-naranja{padding: 3px 14px; color: white; background: #ee7600; font-size: 18px; text-align: center;}
+
+	section .sect5{background-color: #00609c; padding: 60px 0; height: 570px; padding-left: 10px;}
+	section .sect5 .contactanos{font-size: 46px; color: #fff; margin-bottom: 20px; margin-top: 0; margin-left: 12px; font-family: 'gotham-ultra';}
+	section .sect5 .dudas{font-size: 22px; color: #fff; margin-left: 16px; margin-bottom: 30px;}
+	section .sect5 .area{height: 200px; resize: none; width: 470px;}
+	section .sect5 .tel{font-size: 19px; color: #fff; margin-left: 108px; margin-bottom: 30px;}
+	section .sect5 .correo{font-size: 19px; color: #fff; margin-left: 108px; margin-bottom: 30px;}
+	section .sect5 .direccion{font-size: 19px; color: #fff; margin-left: 108px; margin-bottom: 30px;}
+
+	button{background-color: #ee7600;
+    border: #ee7600 solid 1px; color: white; float: left; font-size: 18px; padding: 5px 20px;}
+
+
+	.nombre{width: 470px;}
+	.e-mail{width: 470px;}
+
+	.nav-icons{display: none;}
+
+	footer{padding-top: 0px; padding-bottom: 25px;}
+	footer .web{color: #868686; font-size: 18px; font-weight: 100; font-family: 'gotham-book';}
+	footer .clave{color: #868686; font-size: 18px; font-weight: 100; font-family: 'gotham-book';}
+}
+
+@media (max-width: 750px){
+	/*body {border: 3px solid green;}*/
+
+	section .sect1{background-image: url(img/banner.jpg); background-repeat: no-repeat; background-position: center; background-size: cover; height: 670px;}
+
+	header .encabezado{height: 180px; text-align: center;}
+	section .sect3{margin-top: 820px; background: none; height: 635px; padding: 65px 0;}
+	section .sect3 .mision{font-family: 'gotham-ultra'; font-size: 65px; color: #00609c;}
+	section .sect3 .vision{font-family: 'gotham-ultra'; font-size: 65px; color: #ee7600;}
+	section .sect3 .puntos{font-size: 24px; color: #8c8c8c; letter-spacing: 2px;}
+	section .sect3 .texto{font-size: 21px; color: #8c8c8c; text-align: justify;}
+
+	section .sect3 .texto1{ font-family: gotham-light; font-size: 20px;color: rgb(99, 99, 99);margin: 0px;}
+	section .sect3 .texto2{font-family: 'gotham-ultra'; font-size: 30px; color: #ee7600; margin: 0;}
+	section .sect3 .texto3{font-family: 'gotham-ultra'; font-size: 34px; color: #ee7600; margin: 0;}
+	section .sect3 .texto4{font-family: 'gotham-ultra'; font-size: 44px; color: #fff; background-color: #008ec1; margin: 0; width: 600px; text-align: center;  padding-left: 12px; padding-right: 12px;}
+	section .sect3 .texto5{font-family: 'gotham-ultra'; font-size: 51px; color: #0fa503; margin: 0;}
+	section .sect3 .texto6{font-family: 'gotham-ultra'; font-size: 33px; color: #00609c;}
+
+	section .sect3 .textos{display: none;}
+
+	section .sect4 .texto-sect4{margin-left: 265px;}
+	section .sect4{ background-color: darkgreen; background-repeat: no-repeat; background-size: cover; background-position: center; height: 428px; position: relative;}
+	section .sect4 .bkg-sect4{background-image: url(img/nina-bkg.jpg); background-repeat: no-repeat; height: 428px;}
+	section .sect4 .pal1{padding-left: 12px; font-size: 32px;margin-bottom: 10px; margin-top: 10px; margin-bottom: 20px; font-family: 'gotham-ultra';}
+	section .sect4 .inscripcion{color: white; line-height: 25px; margin-left: 270px; margin-top: 65px;}
+	section .sect4 .pal2{padding-left: -15px; padding-bottom: 0px; font-size: 50px; font-weight: 100; margin-top: 10px;}
+	section .sect4 .punto{height: 10px; border-radius: 50%; width: 10px; margin-left: -20px; margin-bottom: -15px;}
+	section .sect4 .punto.azul{background-color: #00609c;}
+	section .sect4 .punto.naranja{background-color: #ee7600;}
+
+	section .sect4 .pal3{margin-left: 65%;}
+	li{font-size: 21px;}
+	section .sect4 .cita{margin-right: 160px;}
+	section .sect4 .pal3 .bkg-azul{padding: 3px 14px; color: white; display: inline-block; font-size: 18px; background-color: #00609c; text-align: center;}
+	section .sect4 .pal3 .bkg-naranja{padding: 3px 14px; color: white; background: #ee7600; font-size: 18px; text-align: center;}
+
+	section .sect5{background-color: #00609c; padding: 60px 0; height: 680px; padding-left: 10px;}
+	section .sect5 .contactanos{font-size: 42px; color: #fff; margin-bottom: 20px; margin-top: 0; margin-left: 12px; font-family: 'gotham-ultra';}
+	section .sect5 .dudas{display: none;}
+	section .sect5 .area{height: 200px; resize: none; width: 470px;}
+	section .sect5 .tel{margin: 0; padding-top: 5px; font-size: 17px; color: #fff; margin-left: 0px; margin-bottom: 5px;}
+	section .sect5 .correo{font-size: 17px; color: #fff; margin-left: 0px; margin-bottom: 5px;}
+	section .sect5 .direccion{font-size: 17px; margin-right: 0px; color: #fff; margin-left: 0px; margin-bottom: 5px;}
+	.info{padding-left: 0px padding-right 0px;}
+
+	.cont5{width: 75%; margin: 0 auto;}
+
+	button{background-color: #ee7600;
+    border: #ee7600 solid 1px; color: white; float: left; font-size: 18px; padding: 5px 20px;}
+
+	.nombre{width: 470px;}
+	.e-mail{width: 470px;}
+	#banner{width: 500px;}
+
+	footer{padding-top: 0px; padding-bottom: 25px;}
+	footer .web{color: #868686; font-size: 11px; text-align: center; font-weight: 100; font-family: 'gotham-book';}
+	footer .clave{color: #868686; font-size: 11px; text-align: center; font-weight: 100; font-family: 'gotham-book';}
+
+}
+
+@media (max-width: 600px) {
+	/*body {border: 3px solid yellow;}*/
+
+
+	header .encabezado{height: 120px; text-align: center;}
+
+	section .sect1{height: 325px; width: 100%;}
+
+	section .sect2{height: 290px; width: 100%;}
+	section .sect2 .banner-izq{height: 290px; background-image: url(img/bkg-blue.jpg); align-content: center;}
+	section .sect2 .banner-izq .inner-izq{float: none; margin-top: 50px; margin-right: 0%; text-align: center;}
+
+	section .sect2 .banner-1 .inner-banner1{margin-top: 50px; text-align: center;}
+	section .sect2 .banner-2 .inner-banner2{margin-top: 50px; text-align: center;}
+
+	section .sect2 .banner-der .inner-der{float: none; margin-top: 50px; margin-left: 0px; text-align: center;}
+
+	section .sect2 .banner-1{height: 290px; background-color: #19b60d;}
+	section .sect2 .banner-2{height: 290px; background-color: #00609c;}
+	section .sect2 .banner-der{height: 290px; background-image: url(img/bkg-orange.jpg);}
+	section .sect2 .font-banner1{font-size: 17px; font-family: 'gotham-light'; text-align: center; color: white;}
+	section .sect2 .font-banner2{font-size: 26px; font-family: 'gotham-black'; text-align: center; color: white;}
+
+	section .sect3{margin-top: 820px; background: none; background-color: white; height: 400px; padding: 65px 0;}
+	section .sect3 .mision{font-family: 'gotham-ultra'; font-size: 28px; color: #00609c;}
+	section .sect3 .vision{font-family: 'gotham-ultra'; font-size: 28px; color: #ee7600;}
+	section .sect3 .puntos{font-size: 19px; color: #8c8c8c; letter-spacing: 2px;}
+	section .sect3 .texto{display: block; font-size: 15px; margin-bottom: 5px; color: black; text-align: justify;}
+
+	section .sect3 .texto1{display: none;}
+	section .sect3 .texto2{display: none;}
+	section .sect3 .texto3{display: none;}
+	section .sect3 .texto4{display: none;}
+	section .sect3 .texto5{display: none;}
+	section .sect3 .texto6{display: none;}
+
+	section .sect3 .textos{display: none;}
+
+	section .sect4 .texto-sect4{margin-left: 265px;}
+	section .sect4{background-image: url(img/banner3.jpg); background-repeat: no-repeat; background-size: cover; background-position: center; height: 428px; position: relative;}
+	section .sect4 .bkg-sect4{background: none; background-repeat: no-repeat; height: 428px;}
+	section .sect4 .pal1{text-align: center; position: relative; text-align: center; padding-left: 0px; font-size: 46px; margin-bottom: 40px; margin-top: 10px; font-family: 'gotham-ultra';}
+	section .sect4 .inscripcion{color: white; line-height: 25px; margin-left: 0px; margin-top: 65px;}
+	section .sect4 .pal2{position: relative;  padding-left: 0px; text-align: center; padding-bottom: 15px; font-size: 57px; font-weight: 100; margin-top: 10px;}
+	section .sect4 .punto{height: 10px; border-radius: 50%; width: 10px; margin-left: -20px; margin-bottom: -15px;}
+	section .sect4 .punto.azul{background-color: #00609c;}
+	section .sect4 .punto.naranja{background-color: #ee7600;}
+	ul{display: none;}
+
+	section .sect4 .pal3{margin: auto; position: relative; margin-top: 100px; text-align: center;}
+	li{font-size: 21px;}
+	section .sect4 .cita{margin-right: 0px; margin-top: -45px;}
+	section .sect4 .pal3 .bkg-azul{margin-bottom: 0px; margin-left: 30px; margin-right: 30px; padding: 3px 0px; color: white; display: block; font-size: 30px; background-color: #00609c; text-align: center;}
+	section .sect4 .pal3 .bkg-naranja{margin-left: 30px; margin-right: 30px;  padding: 0px 0px; color: white; display: block; background: #ee7600; font-size: 30px; text-align: center;}
+
+	section .sect5{background-color: #00609c; padding: 60px 0; height: 680px; padding-left: 10px;}
+	section .sect5 .contactanos{font-size: 42px; color: #fff; margin-bottom: 20px; margin-top: 0; margin-left: 12px; font-family: 'gotham-ultra';}
+	section .sect5 .dudas{display: none;}
+	section .sect5 .area{height: 200px; resize: none; width: 380px;}
+	section .sect5 .tel{margin: 0; padding-top: 5px; font-size: 17px; color: #fff; margin-left: 0px; margin-bottom: 5px;}
+	section .sect5 .correo{font-size: 17px; color: #fff; margin-left: 0px; margin-bottom: 5px;}
+	section .sect5 .direccion{font-size: 17px; margin-right: 0px; color: #fff; margin-left: 0px; margin-bottom: 5px;}
+
+	.cont5{width: 75%; margin: 0 auto;}
+
+	button{background-color: #ee7600;
+    border: #ee7600 solid 1px; color: white; float: left; font-size: 18px; padding: 5px 20px;}
+
+	.nombre{width: 380px;}
+	.e-mail{width: 380px;}
+	#banner{width: 380px;}
+
+	footer{padding-top: 0px; padding-bottom: 25px;}
+	footer .web{color: #868686; font-size: 11px; text-align: center; font-weight: 100; font-family: 'gotham-book';}
+	footer .clave{color: #868686; font-size: 11px; text-align: center; font-weight: 100; font-family: 'gotham-book';}
+}
+
+@media (max-width: 500px) {
+	/*body {border: 3px solid purple;}*/
+
+	section .sect1{background-image: url(img/banner.jpg); background-repeat: no-repeat; background-position: center; background-size: cover; height: 300px;}
+
+	header .encabezado{height: 50px; text-align: center;}
+
+	section .sect2{height: 290px; width: 100%;}
+	section .sect2 .banner-izq{height: 290px; background-image: url(img/bkg-blue.jpg); align-content: center;}
+	section .sect2 .banner-izq .inner-izq{float: none; margin-top: 50px; margin-right: 0; text-align: center;}
+
+	section .sect2 .banner-1 .inner-banner1{margin-top: 50px; text-align: center;}
+	section .sect2 .banner-2 .inner-banner2{margin-top: 50px; text-align: center;}
+
+	section .sect2 .banner-der .inner-der{float: none; margin-top: 50px; margin-left: 0px; text-align: center;}
+
+	section .sect2 .banner-1{height: 290px; background-color: #19b60d;}
+	section .sect2 .banner-2{height: 290px; background-color: #00609c;}
+	section .sect2 .banner-der{height: 290px; background-image: url(img/bkg-orange.jpg);}
+	section .sect2 .font-banner1{font-size: 17px; font-family: 'gotham-light'; text-align: center; color: white;}
+	section .sect2 .font-banner2{font-size: 26px; font-family: 'gotham-black'; text-align: center; color: white;}
+
+	section .sect3{margin-top: 820px; background-color: white; height: 340px; padding: 65px 0;}
+	section .sect3 .mision{font-family: 'gotham-ultra'; font-size: 22px; color: #00609c;}
+	section .sect3 .vision{font-family: 'gotham-ultra'; font-size: 22px; color: #ee7600;}
+	section .sect3 .puntos{font-size: 15px; color: #8c8c8c; letter-spacing: 2px;}
+	section .sect3 .texto{font-size: 12px; color: black; text-align: justify;}
+
+	section .sect3 .texto1{display: none;}
+	section .sect3 .texto2{display: none;}
+	section .sect3 .texto3{display: none;}
+	section .sect3 .texto4{display: none;}
+	section .sect3 .texto5{display: none;}
+	section .sect3 .texto6{display: none;}
+
+	section .sect3 .textos{display: none;}
+
+	section .sect4 .texto-sect4{margin-left: 265px;}
+	section .sect4{background-image: url(img/banner3.jpg); background-repeat: no-repeat; background-size: cover; background-position: center; height: 325px; position: relative;}
+	section .sect4 .bkg-sect4{background: none; background-repeat: no-repeat; height: 428px;}
+	section .sect4 .pal1{text-align: center; position: relative;  padding-left: 0px; font-size: 32px; margin-bottom: 20px; margin-top: 0px; font-family: 'gotham-ultra';}
+	section .sect4 .inscripcion{color: white; line-height: 25px; margin-left: 0px; margin-top: 65px;}
+	section .sect4 .pal2{position: relative;  padding-left: 0px; text-align: center; padding-bottom: 0px; font-size: 44px; font-weight: 100; margin-top: 2px;}
+	section .sect4 .punto{height: 10px; border-radius: 50%; width: 10px; margin-left: -20px; margin-bottom: -15px;}
+	section .sect4 .punto.azul{background-color: #00609c;}
+	section .sect4 .punto.naranja{background-color: #ee7600;}
+	ul{display: none;}
+
+	section .sect4 .pal3{margin: auto; position: relative; margin-top: 100px; text-align: center;}
+	li{font-size: 21px;}
+	section .sect4 .cita{margin-right: 0px; margin-top: -45px;}
+	section .sect4 .pal3 .bkg-azul{margin-bottom: 0px; margin-left: 30px; margin-right: 30px; padding: 3px 0px; color: white; display: block; font-size: 20px; background-color: #00609c; text-align: center;}
+	section .sect4 .pal3 .bkg-naranja{margin-left: 30px; margin-right: 30px;  padding: 0px 0px; color: white; display: block; background: #ee7600; font-size: 20px; text-align: center;}
+
+	section .sect5{background-color: #00609c; padding: 60px 0; height: 570px; padding-left: 10px;}
+	section .sect5 .contactanos{font-size: 26px; color: #fff; margin-bottom: 20px; margin-top: 0; margin-left: 12px; font-family: 'gotham-ultra';}
+	section .sect5 .dudas{display: none;}
+	section .sect5 .area{height: 120px; resize: none; width: 250px;}
+	section .sect5 .tel{margin: 0; padding-top: 5px; font-size: 12px; color: #fff; margin-left: 0px; margin-bottom: 5px;}
+	section .sect5 .correo{font-size: 12px; color: #fff; margin-left: 0px; margin-bottom: 5px;}
+	section .sect5 .direccion{font-size: 12px; margin-right: 0px; color: #fff; margin-left: 0px; margin-bottom: 5px;}
+
+
+	.cont5{width: 75%; margin: 0 auto;}
+
+	button{background-color: #ee7600;
+    border: #ee7600 solid 1px; color: white; float: left; font-size: 18px; padding: 5px 20px;}
+
+	.nombre{width: 250px;}
+	.e-mail{width: 250px;}
+
+	header .encabezado .inner-header {padding-top: 5px;}
+	#banner{width: 280px; padding-top: 0px;}
+
+	footer{padding-top: 0px; padding-bottom: 25px;}
+	footer .web{color: #868686; font-size: 8px; font-weight: 100; font-family: 'gotham-book';}
+	footer .clave{color: #868686; font-size: 8px; font-weight: 100; font-family: 'gotham-book';}
+}
+
+@media (max-width: 400px) {
+	section .sect3{margin-top: 820px; background-color: white; height: 395px; padding: 65px 0;}
+}
